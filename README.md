@@ -1,9 +1,5 @@
 
   <p align="center">
-    <a href="https://www.saucedemo.com/">
-    <img src="https://i.imgur.com/vZfkIIt.png" alt="Logo" height="80">
-    </a>
-  <br/>
     <br> QA Engineer Technical Skills Assessment
     <br />
     <br />
