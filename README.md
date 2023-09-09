@@ -1,10 +1,4 @@
-
-  <p align="center">
-    <br> QA Engineer Technical Skills Assessment
-    <br />
-    <br />
-  </p>
-</div>
+<h1 align="center"> QA Engineer Technical Skills Assessment</h1>
 
 ## 📑 Deskripsi Project
 <p align="justify">Welcome to Automation testing. </p>
